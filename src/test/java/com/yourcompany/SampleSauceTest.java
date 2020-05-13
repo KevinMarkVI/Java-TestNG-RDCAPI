@@ -84,10 +84,9 @@ import java.util.logging.SimpleFormatter;
 
 public class SampleSauceTest {
 	
-	  public static final String USERNAME = System.getenv("SAUCE_USERNAME");	  
-	  public static final String ACCESS_KEY = System.getenv("SAUCE_ACCESS_KEY");
-//	  public static final String USERNAME = "geraldine.espinoza";	  
-//	  public static final String ACCESS_KEY = "6d63423e-7c74-4c1a-ada3-cf3c76e882d8";
+
+	  public static final String USERNAME = "";	  
+	  public static final String ACCESS_KEY = "";
 	  public static long beforeSession;
 	  public static long afterSession;
 
