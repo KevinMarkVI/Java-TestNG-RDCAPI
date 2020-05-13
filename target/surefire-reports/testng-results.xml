@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="77868" started-at="2020-05-13T20:20:29Z" finished-at="2020-05-13T20:21:47Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="77868" started-at="2020-05-13T20:20:29Z" finished-at="2020-05-13T20:21:47Z">
+      <class name="com.yourcompany.SampleSauceTest">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.yourcompany.SampleSauceTest@17f6480]" name="main" duration-ms="77855" started-at="2020-05-13T14:20:29Z" finished-at="2020-05-13T14:21:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.yourcompany.SampleSauceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
